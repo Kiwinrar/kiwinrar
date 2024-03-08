@@ -1,6 +1,5 @@
 # 💫 About Me:
 🔭 I’m currently working on C/C++<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning DSA & WEB DEV<br>
-img align="right" alt="Coding" width="400" src="https://images.nightcafe.studio/jobs/TQvqt703SqaCke9Yk2yY/TQvqt703SqaCke9Yk2yY--1--l0443.jpg?tr=w-1600,c-at_max"
 
 
 ## 🌐 Socials:
