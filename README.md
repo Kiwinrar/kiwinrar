@@ -13,12 +13,14 @@ I aspire to be a full stack developer and is currently learning frontend using j
 
 ## SOCIALS
 
-</a>
+
 <a href="https://linkedin.com/in/kumar-saksham-455424295">
-  <img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/023750aa-8d9a-46ab-97b1-1cc9a434cf4c" style="width: 40px;"
+  <img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/023750aa-8d9a-46ab-97b1-1cc9a434cf4c" style="width: 50px;">
 </a>
-
-
+<a href="https://www.instagram.com/_sxchm_/">
+  <img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/a510d8b1-1ddf-46a9-b8c2-75bde7a359d7" style="width: 50px;">
+  
+</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kiwinrar&icon=0&color=0)](https://visitcount.itsvg.in)
