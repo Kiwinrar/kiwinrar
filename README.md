@@ -3,8 +3,10 @@
 
 
 ## 🌐 Socials:
+
+</a>
 <a href="https://linkedin.com/in/kumar-saksham-455424295">
-  ![LinkedIn_icon svg](https://github.com/Kiwinrar/kiwinrar/assets/162717863/5ddcf7cb-bb59-44a8-9e2b-2c2ff63b25bc)
+  <img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/023750aa-8d9a-46ab-97b1-1cc9a434cf4c" style="width: 40px;"
 </a>
 
 # 💻 Tech Stack:
