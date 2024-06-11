@@ -4,8 +4,7 @@
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/kumar-saksham-455424295">
-  <img src="![LinkedIn_icon svg](https://github.com/Kiwinrar/kiwinrar/assets/162717863/112de425-8efb-4072-bb41-d74830f2dc0d)">
->
+  ![LinkedIn_icon svg](https://github.com/Kiwinrar/kiwinrar/assets/162717863/5ddcf7cb-bb59-44a8-9e2b-2c2ff63b25bc)
 </a>
 
 # 💻 Tech Stack:
