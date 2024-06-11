@@ -1,0 +1,28 @@
+p{
+    font-weight: 400px;
+    font-family: Roboto;
+    font-size: 10px;
+}
+.toolbar-div{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 50px;
+    width: 70px;
+    background-color: white;
+}
+.home-div, .explore-div, .sub-div, .originals-div, .ytmusic-div, .library-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0 17px 0;
+    cursor: pointer;
+    transition: background-color linear;
+}
+.home, .explore, .sub, .originals , .ytmusic, .library{
+    width: 24px;
+    margin: 0 0 5px 0;
+}
+.home-div:hover, .explore-div:hover, .sub-div:hover, .originals-div:hover, .ytmusic-div:hover, .library-div:hover{
+    background-color: rgb(232, 232, 232);
+}
