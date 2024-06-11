@@ -1,6 +1,6 @@
 # ABOUT ME
 <br>I’m an aspiring developer and is currently working on refining my skills on C/C++<br>
-I aspire to be a full stack development and is currently learning frontend using javascript <br>  
+I aspire to be a full stack developer and is currently learning frontend using javascript <br>  
 
 # TECH STACK
 <img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/918418f9-a94b-4e9e-aa2c-73d152a8a12b" style="width: 50px;">
