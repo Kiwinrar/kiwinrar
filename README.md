@@ -1,28 +1,20 @@
-# ABOUT ME
-<br>I’m an aspiring developer and is currently working on refining my skills on C/C++<br>
-I aspire to be a full stack developer and is currently learning frontend using javascript <br>  
+<h1>💫 About Me:</h1> 🔭 I’m currently working on **refining my skills on C/C++** - 🌱 I’m currently learning **web development** - 👯 I’m looking to collaborate on **fullstack projects** - 🤝 I’m looking for help with **backend** - ⚡ Fun fact **I have got a great sense of humour**<br>
 
-# TECH STACK
-<img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/918418f9-a94b-4e9e-aa2c-73d152a8a12b" style="width: 50px;">
-<img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/51846e2a-e6ff-4873-9fb0-4a3357b0fbd2" style="width: 50px;">
-<img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/30f2b6b7-018c-4ab4-92ce-902863e44ca9" style="width: 50px;">
-<img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/98191e1b-c3ca-4088-9286-5d3f53814d96" style="width: 50px;">
-<img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/640fc8f8-1f62-4823-bc74-1d1d6e29d22e" style="width: 50px;">
-<img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/01196ebe-5a0b-4aab-bfbd-ce0d030634f3" style="width: 50px;">
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_sxchm_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kumar-saksham-455424295) 
 
-## SOCIALS
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kiwinrar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kiwinrar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwinrar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<a href="https://linkedin.com/in/kumar-saksham-455424295">
-  <img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/023750aa-8d9a-46ab-97b1-1cc9a434cf4c" style="width: 50px;">
-</a>
-<a href="https://www.instagram.com/_sxchm_/">
-  <img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/a510d8b1-1ddf-46a9-b8c2-75bde7a359d7" style="width: 50px;">
-  
-</a>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kiwinrar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kiwinrar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kiwinrar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
