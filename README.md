@@ -1,16 +1,24 @@
-# 💫 About Me:
-🔭 I’m currently working on C/C++<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning DSA & WEB DEV<br>
+# ABOUT ME
+<br>I’m an aspiring developer and is currently working on refining my skills on C/C++<br>
+I aspire to be a full stack development and is currently learning frontend using javascript <br>  
+
+# TECH STACK
+<img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/918418f9-a94b-4e9e-aa2c-73d152a8a12b" style="width: 50px;">
+<img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/51846e2a-e6ff-4873-9fb0-4a3357b0fbd2" style="width: 50px;">
+<img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/30f2b6b7-018c-4ab4-92ce-902863e44ca9" style="width: 50px;">
+<img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/98191e1b-c3ca-4088-9286-5d3f53814d96" style="width: 50px;">
+<img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/640fc8f8-1f62-4823-bc74-1d1d6e29d22e" style="width: 50px;">
+<img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/01196ebe-5a0b-4aab-bfbd-ce0d030634f3" style="width: 50px;">
 
 
-## 🌐 Socials:
+## SOCIALS
 
 </a>
 <a href="https://linkedin.com/in/kumar-saksham-455424295">
   <img src="https://github.com/Kiwinrar/kiwinrar/assets/162717863/023750aa-8d9a-46ab-97b1-1cc9a434cf4c" style="width: 40px;"
 </a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kiwinrar&icon=0&color=0)](https://visitcount.itsvg.in)
